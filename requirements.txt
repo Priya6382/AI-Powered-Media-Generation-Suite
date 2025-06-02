@@ -1,0 +1,25 @@
+# Core Libraries
+torch==2.1.0
+torchvision==0.16.0
+transformers==4.35.0
+diffusers==0.24.0
+accelerate==0.25.0
+
+# UI & Utilities
+gradio==3.48.0
+numpy==1.24.4
+pillow==10.0.1
+opencv-python==4.8.1.78
+tqdm==4.66.1
+
+# Optimization
+xformers==0.0.22.post7
+bitsandbytes==0.41.3
+
+# Video Processing
+av==10.0.0
+imageio==2.31.5
+imageio-ffmpeg==0.4.9
+
+# Optional (for ControlNet)
+controlnet_aux==0.0.6
