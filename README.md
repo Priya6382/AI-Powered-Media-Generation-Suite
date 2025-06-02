@@ -53,5 +53,5 @@ This will open a browser window with the interactive interface where you can:
 
 ## Demo
 
-![AI Social Media Generator](./output/Output1.png)
+![AI Social Media Generator](./outputs/Output 1.png)
 
