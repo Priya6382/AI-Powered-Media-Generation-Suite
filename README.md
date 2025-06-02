@@ -39,6 +39,7 @@ Run the Gradio app locally:
 
 ```bash
 python app.py
+```
 
 This will open a browser window with the interactive interface where you can:
 
@@ -48,7 +49,6 @@ This will open a browser window with the interactive interface where you can:
 - Adjust advanced settings like hashtags, image style, video motion
 - Generate and view results instantly
 
----
 
 ## Configuration
 
