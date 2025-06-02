@@ -50,3 +50,8 @@ This will open a browser window with the interactive interface where you can:
 - **Hashtags:** Customize hashtag categories in the `HASHTAGS` dictionary.
 - **Image Styles:** Update or expand `IMAGE_STYLES` list for new artistic effects.
 - **Models:** Update the model selection dictionaries (`MODEL_CHOICES`, `IMAGE_MODEL_CHOICES`, `VIDEO_MODEL_CHOICES`) to add or switch AI backends.
+
+## Demo
+
+![AI Social Media Generator](./output/Output1.png)
+
