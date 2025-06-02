@@ -16,12 +16,6 @@ An advanced AI-powered tool to generate stunning social media content — includ
 - **Interactive Gradio UI:** User-friendly interface to customize input and instantly generate output.
 - **Evaluation Metrics:** Automated scoring and grading for generated content quality (text coherence, tone alignment, image sharpness, video consistency, and more).
 
-## Demo
-
-Try the live demo hosted on [Your Demo URL] (replace with your deployed link) or run locally to explore all features.
-
----
-
 ## Installation
 
 ### Prerequisites
